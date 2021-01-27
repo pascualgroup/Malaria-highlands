@@ -8,6 +8,6 @@
 
 `mifRefine1_TmeanB.R`: It repeats the search of parameter space using the output of `mifSearch1_TmeanB.R` until the maximum likelihood value was stationary. 
 
-`mifProf_rho.R`: This code is an example of a profile Likelihood estimation.
+`mifProf_rho.R`: This code contains an example of a profile likelihood estimation.
 
 `figure2_fitting.R`: It simulates the trajectory with the maximum likelihood estimate and compares it with the observed data.
