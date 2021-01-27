@@ -10,4 +10,4 @@
 
 `mifProf_rho.R`: This code is an example of a profile Likelihood estimation.
 
-`figure2_fitting.R`: It simulates the trajectory from the maximum likelihood estimate and compares it with the observed data.
+`figure2_fitting.R`: It simulates the trajectory with the maximum likelihood estimate and compares it with the observed data.
