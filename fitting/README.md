@@ -11,5 +11,3 @@
 `mifProf_rho.R`: This code is an example of a profile Likelihood estimation.
 
 `figure2_fitting.R`: It simulates the trajectory from the maximum likelihood estimate and compares it with the observed data.
-
-**Data Availability**: The epidemiological data that support the findings of this study are available from the corresponding author upon reasonable request.
