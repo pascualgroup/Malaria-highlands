@@ -1,6 +1,6 @@
 # R codes for model fitting
 
-`poObject_TmeanB.R`: It creates the object of class pomp (see [link](https://kingaa.github.io/pomp/vignettes/getting_started.html) for details on how to use pomp)
+`poObject_TmeanB.R`: It creates the object of class pomp (see [link](https://kingaa.github.io/pomp/vignettes/getting_started.html) for details on how to use the R package pomp)
 
 `gridParams_TmeanB.R`: It creates the initial set of parameters.
 
